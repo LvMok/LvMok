@@ -5,4 +5,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woneal)](https://solved.ac/woneal/)
 
-![LvMok's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![LvMok's GitHub stats](https://github-readme-stats.vercel.app/api?username=LvMok&show_icons=true&theme=transparent)
